@@ -1,0 +1,19 @@
+{
+  "name": "security_rules",
+  "version": "1.0.0",
+  "description": "Unit testing firebase security rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarltonK/firebase_security_rules_testing.git"
+  },
+  "author": "Mark Carlton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarltonK/firebase_security_rules_testing/issues"
+  },
+  "homepage": "https://github.com/CarltonK/firebase_security_rules_testing#readme"
+}
